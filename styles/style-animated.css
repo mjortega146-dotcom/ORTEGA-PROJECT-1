@@ -1094,3 +1094,11 @@ body::after {
     font-size: 12px;
   }
 }
+html {
+  scroll-behavior: smooth;
+}
+
+#hobbies,
+#games {
+  scroll-margin-top: 80px;
+}
